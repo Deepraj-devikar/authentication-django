@@ -1,8 +1,8 @@
 # authentication-django
 
 setup commands
+
 	take cmd or terminal to folder 'authentication-django'
-	
 	command: - authenv\Scripts\activate
 	command: - cd authentication
 	command: - python manage.py makemirations
